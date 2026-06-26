@@ -4,3 +4,4 @@
 venv/
 __pycache__/
 .DS_Store
+backend/sheets_credentials.json
